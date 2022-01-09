@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppToko0149</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halaman_produk">Halaman Produk</string>
+    <string name="halaman_transaksi">Halaman Transaksi</string>
+    <string name="halaman_laporan">Halaman Laporan</string>
+    <string name="halaman_about">Halaman About</string>
+    <string name="logout">Logout</string>
+    <string name="_10000">10000</string>
+    <string name="bakso">Bakso</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="harga">Harga</string>
+    <string name="proses">proses</string>
+    <string name="stok">Stok</string>
+    <string name="bayar">Bayar</string>
+    <string name="total">Total</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="laporan">laporan</string>
+    <string name="about">about</string>
+    <string name="transaksi">transaksi</string>
+    <string name="produk">produk</string>
+    <string name="imgedit">imgEdit</string>
+    <string name="imgdelete">imgDelete</string>
+</resources>
